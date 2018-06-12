@@ -1,2 +1,2 @@
-# jcbp-miriadax.github.io
-Practicas curso linux miriadax
+# web
+Repositorio de código con ejemplo de página web sencilla pero eficaz.
